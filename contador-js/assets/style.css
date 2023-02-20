@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(221, 193, 247);
+}
+
+header{
+    text-align: center;
+    color: blueviolet;
+}
+
+#counter{
+    text-align: center;
+}
+
+button{
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 45%;
+    border-style:hidden;
+    height: 25px;
+    width: 25px;
+}
+
+span{
+    margin: 0 12px;
+}
